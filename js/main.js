@@ -1,1 +1,1 @@
-console.log("Is Working!!!");
+document.querySelector(".tecla_pom");
